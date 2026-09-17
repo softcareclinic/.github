@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=2000&auto=format&fit=crop" alt="SoftCare Clinic Banner" width="100%">
+  <img src="https://softcareclinic.com/images/brand/softcare-logo.png" alt="SoftCare Clinic Logo" width="300">
   
   <h1>🏥 SoftCare Clinic | HealthTech & Premium Care</h1>
   <p><b>Şişli, İstanbul'un kalbinde, teknolojiyi ve sağlığı birleştiren yeni nesil medikal vizyon.</b></p>
