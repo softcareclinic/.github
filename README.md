@@ -1,29 +1,54 @@
 <div align="center">
-  <img src="https://softcareclinic.com/images/brand/softcare-logo.png" alt="SoftCare Clinic Logo" width="300">
-  
-  <h1>🏥 SoftCare Clinic | HealthTech & Premium Care</h1>
-  <p><b>Şişli, İstanbul'un kalbinde, teknolojiyi ve sağlığı birleştiren yeni nesil medikal vizyon.</b></p>
-  
-  <!-- Yönlendirme Butonları (Rozetler) -->
-  <a href="https://softcareclinic.com"><img src="https://img.shields.io/badge/Web_Sitemiz-softcareclinic.com-blue?style=for-the-badge&logo=google-chrome"></a>
-  <a href="https://softcareclinic.com/iletisim"><img src="https://img.shields.io/badge/Lokasyon-Şişli_İstanbul-red?style=for-the-badge&logo=google-maps"></a>
+
+<img src="https://softcareclinic.com/images/brand/softcare-logo.png" alt="SoftCare Clinic" width="220">
+
+# SoftCare Clinic
+
+Şişli Fulya’da kadın sağlığı kliniği.  
+Bu hesap, kliniğin açık duran dijital işlerinedir — site, tarayıcı eklentisi, hesap araçları.
+
+<br>
+
+<a href="https://softcareclinic.com"><img src="https://img.shields.io/badge/softcareclinic.com-0f2e34?style=for-the-badge" alt="Website"></a>
+<a href="https://chromewebstore.google.com/detail/softcare-clinic-hızlı-erişim/lclidnbjaoegjabofcbhlgkmjoaljlga"><img src="https://img.shields.io/chrome-web-store/v/lclidnbjaoegjabofcbhlgkmjoaljlga?style=for-the-badge&label=Chrome&color=c4768a" alt="Chrome Web Store"></a>
+<a href="https://softcareclinic.com/online-randevu.html"><img src="https://img.shields.io/badge/Randevu-212_241_30_10-1c4852?style=for-the-badge" alt="Randevu"></a>
+
 </div>
 
-## 🚀 Vizyonumuz (Our Vision)
-Geleneksel sağlık hizmetlerini dijital dünyanın hızı ve premium hasta deneyimi ile harmanlıyoruz. **SoftCare MedTech** GitHub profilimiz; geliştirdiğimiz **sağlık araçları (widgets)**, **tarayıcı eklentilerimiz** ve **açık kaynak dijital projelerimizi** teknoloji ve iş dünyasıyla paylaşmak için oluşturulmuştur.
+---
 
-## 🛠️ Dijital Varlıklarımız (Digital Assets)
-- 🌐 **[SoftCare PWA](https://softcareclinic.com)** - Mobil uyumlu Yeni Nesil Klinik Uygulaması
-- 🧩 **Tarayıcı Eklentileri** - Edge, Firefox ve Chrome için B2B Otel ve Asistan araçları *(Çok Yakında)*
-- 🧮 **Sağlık Widget'ları** - Partner web siteleri için açık kaynaklı Vücut Kitle İndeksi (BMI) ve Sağlık Hesaplayıcıları *(Çok Yakında)*
-- 💬 **WhatsApp Sticker Paketi** - Premium sağlık iletişimi görsel arşivi *(Çok Yakında)*
+### Klinik
 
-## 🌍 Bize Ulaşın
-- 📍 **Lokasyon:** Şişli, İstanbul, Türkiye
-- ✉️ **E-posta:** info@softcareclinic.com
-- 🔗 **Kurumsal:** [softcareclinic.com](https://softcareclinic.com)
+SoftCare, 2013’e kadar aynı semtte Şişli Med adıyla durdu. Unvan değişti; işin cinsi değişmedi.  
+Mahrem dosyada netlik, kayıt ve sınır. Tanı, GitHub’da değil muayene odasında konur.
+
+TR · EN · AR · DE · RU · ES
+
+### Yayında
+
+| | |
+|---|---|
+| Site | [softcareclinic.com](https://softcareclinic.com) |
+| Eklenti | [SoftCare Clinic — Hızlı Erişim](https://chromewebstore.google.com/detail/lclidnbjaoegjabofcbhlgkmjoaljlga) · Chrome Web Store · v1.0.0 |
+| Randevu | [online-randevu](https://softcareclinic.com/online-randevu.html) · +90 212 241 30 10 |
+
+Eklenti tarayıcıda randevu ve iletişim kısayolu, yumurtlama / gebelik haftası hesabı, semptom notu ve döngü takibi tutar. Veri sunucuya gitmez; `chrome.storage.local` cihazdadır.
+
+Edge ve Firefox mağaza kayıtları ayrı yürür.
+
+### Bu org’da ne durur
+
+Açık kalan işler: eklenti kaynakları, site yardımcıları, çeviri dosyaları.  
+Hasta kaydı, onam ve işlem dosyası burada yoktur.
+
+### İletişim
+
+Fulya Mah. Bahçeler Sk. No: 19/1 · Şişli / İstanbul · Türkiye  
+[info@softcareclinic.com](mailto:info@softcareclinic.com)  
+SOFTCARE SAĞLIK HİZMETLERİ VE LİMİTED ŞİRKETİ
 
 <div align="center">
-  <br>
-  <i>"Geleceğin Sağlık Deneyimi"</i>
+
+[softcareclinic.com](https://softcareclinic.com)
+
 </div>
