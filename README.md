@@ -15,7 +15,7 @@ Bu hesap, kliniğin açık duran dijital işleridir — site, hasta portalı, ta
 <a href="https://addons.mozilla.org/en-US/firefox/addon/soft-care-clinic/"><img src="https://img.shields.io/amo/v/soft-care-clinic?style=for-the-badge&label=Firefox&color=c4768a" alt="Firefox Add-ons"></a>
 <a href="https://softcareclinic.com/online-randevu.html"><img src="https://img.shields.io/badge/Randevu-212_241_30_10-1c4852?style=for-the-badge" alt="Randevu"></a>
 
-<sub>🇹🇷 Türkçe · 🇬🇧 English · 🇸🇦 العربية · 🇩🇪 Deutsch · 🇷🇺 Русский · 🇪🇸 Español</sub>
+<sub>🇹🇷 Türkçe · <a href="https://github.com/softcareclinic/.github/blob/main/README.en.md">🇬🇧 English</a> · 🇸🇦 العربية · 🇩🇪 Deutsch · 🇷🇺 Русский · 🇪🇸 Español</sub>
 
 </div>
 
